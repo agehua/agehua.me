@@ -1,3 +1,3 @@
 # agehua.me
 
-This repo is used to store comments from agehua.github.io
+This repo is used to store comments from https://agehua.github.io
